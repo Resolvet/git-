@@ -15,3 +15,5 @@ git status (查看有多少没添加本地仓库） gti add . (添加本地仓库)     .(所有文件) 
 
 git rm --cached git.txt (删除本地添加的仓库)
 
+git log --author  （查看谁添加的版本） git log --author='lia' (指定版本)
+
