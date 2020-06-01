@@ -17,3 +17,6 @@ git rm --cached git.txt (删除本地添加的仓库)
 
 git log --author  （查看谁添加的版本） git log --author='lia' (指定版本)
 
+git diff (修改前与修改后)   git rm 1.txt （删除添加add.）
+ 
+git mv 1.txt 2.txt (修改名字)    git  mv 1.txt  tsts/2.txt（可以该名字）            （移动文件）
