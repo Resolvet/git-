@@ -1,0 +1,17 @@
+shell  指令
+
+cd  切换路径     cd . 自己路径    cd .. 返回上一个路径   cd 名字
+
+ls 查看自己里面有什么内容  ls -la 查看所有内容       rm 删除文件   rm -rf 删除文件
+
+mkdir 创建文件夹    touch 创建文件        
+
+
+查看自己的配置信息   git config --list (全部)   git config user.name
+
+git help (全部指令简述)   git help commit (个体查看)
+ 
+git status (查看有多少没添加本地仓库） gti add . (添加本地仓库)     .(所有文件)  （也可以单个文件）
+
+git rm --cached git.txt (删除本地添加的仓库)
+
